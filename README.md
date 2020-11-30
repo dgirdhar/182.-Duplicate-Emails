@@ -8,4 +8,10 @@ Got the following performance result, in this method I used group by having to s
 Runtime: 334 ms, faster than 38.07% of MySQL online submissions for Duplicate Emails.
 Memory Usage: 0B, less than 100.00% of MySQL online submissions for Duplicate Emails.
 
+Version 2:
+Using sub query method, got the following performance numbers.
+
+Runtime: 257 ms, faster than 98.62% of MySQL online submissions for Duplicate Emails.
+Memory Usage: 0B, less than 100.00% of MySQL online submissions for Duplicate Emails.
+
 - Dhiraj Girdhar
